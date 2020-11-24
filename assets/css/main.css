@@ -2341,7 +2341,8 @@ ul.icons {
       color: #ce1b28; }
   #footer a {
     color: rgba(255, 255, 255, 0.5);
-    text-decoration: none; }
+    text-decoration: none;
+    font-size: 12px; }
     #footer a:hover {
       color: #ce1b28; }
   #footer .content {
